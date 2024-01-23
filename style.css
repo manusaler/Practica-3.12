@@ -1,0 +1,23 @@
+ul.primero {
+    list-style-type: circle;
+}
+
+ol.segundo {
+    list-style-type:decimal;
+}
+
+ol.tercero {
+    list-style-type: upper-roman;
+}
+
+ul.cuarto {
+    list-style-type: circle;
+}
+
+ol.quinto {
+    list-style-type: lower-latin;
+}
+
+ul.sexto {
+    list-style-type: circle;
+}
